@@ -656,6 +656,7 @@ premium services
 - [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
 - [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
 - [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+- [Sflix] (https://sflix.se) Streaming site with allmost all the movies
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
